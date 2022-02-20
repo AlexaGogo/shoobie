@@ -1,1 +1,2 @@
 # shoobie
+A merchandise visualizer.
